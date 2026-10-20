@@ -1,4 +1,17 @@
-git pull
-git rm Jlv-index.json Jlv-tenglv-wuhan.json
-git commit -m "remove old json files"
-git push
+{
+  "schemaVersion": "1.0",
+  "version": "2026-10-20T11:12:39Z",
+  "libraries": [
+    {
+      "id": "tenglu-wuhan",
+      "name": "腾旅e卡通 · 武汉",
+      "region": "武汉市",
+      "theme": "年卡景点",
+      "spotCount": 10,
+      "intro": "一卡畅玩 90+ 景区",
+      "cover": "",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USER/jlv-data@main/tenglu-wuhan.json",
+      "updatedAt": "2026-10-20"
+    }
+  ]
+}
