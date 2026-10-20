@@ -1,0 +1,478 @@
+{
+  "schemaVersion": "1.0",
+  "id": "tenglu-wuhan",
+  "name": "腾旅e卡通 · 武汉",
+  "region": "武汉市",
+  "theme": "年卡景点",
+  "center": {
+    "lng": 114.305,
+    "lat": 30.593
+  },
+  "intro": "一卡畅玩 90+ 景区",
+  "cover": "",
+  "source": "腾旅官网 2025-05-14",
+  "updatedAt": "2026-10-20",
+  "spotCount": 10,
+  "spots": [
+    {
+      "id": "tenglu-wuhan-001",
+      "name": "夜上黄鹤楼",
+      "city": "武汉",
+      "district": "武昌区",
+      "address": "武昌区蛇山西山坡特1号",
+      "location": {
+        "lng": 114.3021,
+        "lat": 30.5456
+      },
+      "tags": {
+        "playType": [
+          "夜游"
+        ],
+        "nature": [
+          "山水"
+        ],
+        "culture": [
+          "古迹"
+        ],
+        "family": [],
+        "intensity": [
+          "轻松"
+        ],
+        "crowd": [
+          "情侣",
+          "朋友"
+        ],
+        "transport": [
+          "公交可达"
+        ],
+        "season": [
+          "四季"
+        ]
+      },
+      "ticketPrice": 150,
+      "cardBenefit": "免2次",
+      "needReserve": true,
+      "reserveNote": "至少提前1天，21点放票",
+      "openHours": "19:00-22:00",
+      "closed": false,
+      "tip": "不含日场，1.2m以下儿童免费"
+    },
+    {
+      "id": "tenglu-wuhan-002",
+      "name": "东湖落雁景区",
+      "city": "武汉",
+      "district": "武昌区",
+      "address": "东湖风景区落雁景区北门",
+      "location": {
+        "lng": 114.4236,
+        "lat": 30.5342
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "湖泊",
+          "森林"
+        ],
+        "culture": [],
+        "family": [
+          "亲子"
+        ],
+        "intensity": [
+          "轻松"
+        ],
+        "crowd": [
+          "情侣",
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "公交可达",
+          "骑行友好"
+        ],
+        "season": [
+          "春",
+          "秋"
+        ]
+      },
+      "ticketPrice": 13,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "08:30-17:30",
+      "closed": false,
+      "tip": "从北门进入离落雁岛最近"
+    },
+    {
+      "id": "tenglu-wuhan-003",
+      "name": "武汉园博园",
+      "city": "武汉",
+      "district": "硚口区",
+      "address": "硚口区园博园东路9号",
+      "location": {
+        "lng": 114.2218,
+        "lat": 30.6347
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "花海"
+        ],
+        "culture": [
+          "博物馆"
+        ],
+        "family": [
+          "亲子"
+        ],
+        "intensity": [
+          "轻松"
+        ],
+        "crowd": [
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "公交可达"
+        ],
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ]
+      },
+      "ticketPrice": 60,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "09:00-17:00",
+      "closed": false,
+      "tip": "又叫武汉自然博物馆，室内可逛"
+    },
+    {
+      "id": "tenglu-wuhan-004",
+      "name": "张公山寨",
+      "city": "武汉",
+      "district": "青山区",
+      "address": "青山区严西湖畔张公山寨景区",
+      "location": {
+        "lng": 114.4756,
+        "lat": 30.5983
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "湖泊",
+          "森林"
+        ],
+        "culture": [
+          "古迹"
+        ],
+        "family": [
+          "亲子",
+          "萌宠"
+        ],
+        "intensity": [
+          "轻徒步"
+        ],
+        "crowd": [
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "自驾友好"
+        ],
+        "season": [
+          "春",
+          "秋"
+        ]
+      },
+      "ticketPrice": 60,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "08:30-17:30",
+      "closed": false,
+      "tip": "湖边梅花春天开得好，有萌宠乐园"
+    },
+    {
+      "id": "tenglu-wuhan-005",
+      "name": "九峰森林动物园",
+      "city": "武汉",
+      "district": "洪山区",
+      "address": "东湖高新区九峰乡九峰森林动物园",
+      "location": {
+        "lng": 114.5135,
+        "lat": 30.5219
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "森林"
+        ],
+        "culture": [],
+        "family": [
+          "亲子",
+          "萌宠"
+        ],
+        "intensity": [
+          "轻松"
+        ],
+        "crowd": [
+          "朋友"
+        ],
+        "transport": [
+          "自驾友好"
+        ],
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ]
+      },
+      "ticketPrice": 100,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "08:30-17:30",
+      "closed": false,
+      "tip": "1.2m以下儿童、70岁以上免费"
+    },
+    {
+      "id": "tenglu-wuhan-006",
+      "name": "九真山",
+      "city": "武汉",
+      "district": "蔡甸区",
+      "address": "蔡甸区永安街九真山风景区",
+      "location": {
+        "lng": 113.9712,
+        "lat": 30.4698
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "山水",
+          "森林"
+        ],
+        "culture": [
+          "宗教"
+        ],
+        "family": [],
+        "intensity": [
+          "登山"
+        ],
+        "crowd": [
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "自驾友好"
+        ],
+        "season": [
+          "春",
+          "秋"
+        ]
+      },
+      "ticketPrice": 60,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "08:00-17:00",
+      "closed": false,
+      "tip": "爬山约2小时，建议穿运动鞋"
+    },
+    {
+      "id": "tenglu-wuhan-007",
+      "name": "武汉花博汇",
+      "city": "武汉",
+      "district": "蔡甸区",
+      "address": "蔡甸区知音湖大道特1号花博汇",
+      "location": {
+        "lng": 114.0456,
+        "lat": 30.5217
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "花海"
+        ],
+        "culture": [],
+        "family": [
+          "亲子"
+        ],
+        "intensity": [
+          "轻松"
+        ],
+        "crowd": [
+          "情侣",
+          "朋友"
+        ],
+        "transport": [
+          "自驾友好",
+          "需换乘"
+        ],
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ]
+      },
+      "ticketPrice": 80,
+      "cardBenefit": "不限次",
+      "needReserve": true,
+      "reserveNote": "大型节假日需提前1天预约",
+      "openHours": "09:00-20:30",
+      "closed": false,
+      "tip": "法式城堡花海，6万株郁金香"
+    },
+    {
+      "id": "tenglu-wuhan-008",
+      "name": "木兰天池",
+      "city": "武汉",
+      "district": "黄陂区",
+      "address": "黄陂区长轩岭街道石门山木兰天池景区",
+      "location": {
+        "lng": 114.1567,
+        "lat": 31.2134
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "山水",
+          "峡谷",
+          "森林"
+        ],
+        "culture": [],
+        "family": [
+          "亲子"
+        ],
+        "intensity": [
+          "登山"
+        ],
+        "crowd": [
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "自驾友好"
+        ],
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ]
+      },
+      "ticketPrice": 70,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "07:00-18:00",
+      "closed": false,
+      "tip": "上山有索道，步行约3小时"
+    },
+    {
+      "id": "tenglu-wuhan-009",
+      "name": "木兰草原",
+      "city": "武汉",
+      "district": "黄陂区",
+      "address": "黄陂区王家河街道聂家岗木兰草原景区",
+      "location": {
+        "lng": 114.4285,
+        "lat": 31.0712
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "草原"
+        ],
+        "culture": [],
+        "family": [
+          "亲子"
+        ],
+        "intensity": [
+          "轻松"
+        ],
+        "crowd": [
+          "情侣",
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "自驾友好"
+        ],
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ]
+      },
+      "ticketPrice": 70,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "08:00-18:00",
+      "closed": false,
+      "tip": "劳动节、国庆节不接待年卡用户"
+    },
+    {
+      "id": "tenglu-wuhan-010",
+      "name": "清凉寨",
+      "city": "武汉",
+      "district": "黄陂区",
+      "address": "黄陂区蔡店街道清凉寨景区",
+      "location": {
+        "lng": 114.3189,
+        "lat": 31.3916
+      },
+      "tags": {
+        "playType": [
+          "日游"
+        ],
+        "nature": [
+          "山水",
+          "花海",
+          "森林"
+        ],
+        "culture": [],
+        "family": [],
+        "intensity": [
+          "登山",
+          "长徒步"
+        ],
+        "crowd": [
+          "朋友",
+          "团队"
+        ],
+        "transport": [
+          "自驾友好",
+          "需换乘"
+        ],
+        "season": [
+          "春",
+          "秋"
+        ]
+      },
+      "ticketPrice": 70,
+      "cardBenefit": "不限次",
+      "needReserve": false,
+      "reserveNote": "",
+      "openHours": "08:00-17:30",
+      "closed": false,
+      "tip": "11万株野生樱花，山路弯多注意驾驶"
+    }
+  ]
+}
