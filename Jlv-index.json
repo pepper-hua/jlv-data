@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "version": "2026-10-20T11:12:39Z",
+  "version": "2026-10-21T16:29:21.284776Z",
   "libraries": [
     {
       "id": "tenglu-wuhan",
@@ -11,7 +11,7 @@
       "intro": "一卡畅玩 90+ 景区",
       "cover": "",
       "url": "https://cdn.jsdelivr.net/gh/pepper-hua/jlv-data@main/tenglu-wuhan.json",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-21"
     }
   ]
 }
