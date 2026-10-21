@@ -11,7 +11,7 @@
   "intro": "一卡畅玩 90+ 景区",
   "cover": "",
   "source": "腾旅官网 2025-05-14",
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "spotCount": 10,
   "spots": [
     {
@@ -21,8 +21,8 @@
       "district": "武昌区",
       "address": "武昌区蛇山西山坡特1号",
       "location": {
-        "lng": 114.3021,
-        "lat": 30.5456
+        "lng": 114.305298,
+        "lat": 30.543475
       },
       "tags": {
         "playType": [
@@ -64,8 +64,8 @@
       "district": "武昌区",
       "address": "东湖风景区落雁景区北门",
       "location": {
-        "lng": 114.4236,
-        "lat": 30.5342
+        "lng": 114.438085,
+        "lat": 30.562334
       },
       "tags": {
         "playType": [
@@ -111,8 +111,8 @@
       "district": "硚口区",
       "address": "硚口区园博园东路9号",
       "location": {
-        "lng": 114.2218,
-        "lat": 30.6347
+        "lng": 114.224917,
+        "lat": 30.619883
       },
       "tags": {
         "playType": [
@@ -158,8 +158,8 @@
       "district": "青山区",
       "address": "青山区严西湖畔张公山寨景区",
       "location": {
-        "lng": 114.4756,
-        "lat": 30.5983
+        "lng": 114.505043,
+        "lat": 30.588863
       },
       "tags": {
         "playType": [
@@ -206,8 +206,8 @@
       "district": "洪山区",
       "address": "东湖高新区九峰乡九峰森林动物园",
       "location": {
-        "lng": 114.5135,
-        "lat": 30.5219
+        "lng": 114.488651,
+        "lat": 30.501294
       },
       "tags": {
         "playType": [
@@ -251,8 +251,8 @@
       "district": "蔡甸区",
       "address": "蔡甸区永安街九真山风景区",
       "location": {
-        "lng": 113.9712,
-        "lat": 30.4698
+        "lng": 113.95508,
+        "lat": 30.481049
       },
       "tags": {
         "playType": [
@@ -296,8 +296,8 @@
       "district": "蔡甸区",
       "address": "蔡甸区知音湖大道特1号花博汇",
       "location": {
-        "lng": 114.0456,
-        "lat": 30.5217
+        "lng": 114.08829,
+        "lat": 30.503741
       },
       "tags": {
         "playType": [
@@ -342,8 +342,8 @@
       "district": "黄陂区",
       "address": "黄陂区长轩岭街道石门山木兰天池景区",
       "location": {
-        "lng": 114.1567,
-        "lat": 31.2134
+        "lng": 114.285537,
+        "lat": 31.177952
       },
       "tags": {
         "playType": [
@@ -389,8 +389,8 @@
       "district": "黄陂区",
       "address": "黄陂区王家河街道聂家岗木兰草原景区",
       "location": {
-        "lng": 114.4285,
-        "lat": 31.0712
+        "lng": 114.460447,
+        "lat": 30.954588
       },
       "tags": {
         "playType": [
@@ -435,8 +435,8 @@
       "district": "黄陂区",
       "address": "黄陂区蔡店街道清凉寨景区",
       "location": {
-        "lng": 114.3189,
-        "lat": 31.3916
+        "lng": 114.216036,
+        "lat": 31.298481
       },
       "tags": {
         "playType": [
