@@ -1,17 +1,28 @@
 {
   "schemaVersion": "1.0",
-  "version": "2026-10-21T16:29:21.284776Z",
+  "version": "2026-10-22T15:39:53.782921Z",
   "libraries": [
     {
       "id": "tenglu-wuhan",
-      "name": "腾旅e卡通 · 武汉",
+      "name": "武汉都市圈年卡",
       "region": "武汉市",
       "theme": "年卡景点",
-      "spotCount": 10,
+      "spotCount": 109,
       "intro": "一卡畅玩 90+ 景区",
       "cover": "",
       "url": "https://cdn.jsdelivr.net/gh/pepper-hua/jlv-data@main/tenglu-wuhan.json",
-      "updatedAt": "2026-10-21"
+      "updatedAt": "2026-10-22"
+    },
+    {
+      "id": "dawuhan-wuhan",
+      "name": "大武汉景区旅游年卡",
+      "region": "武汉",
+      "theme": "年卡景点",
+      "spotCount": 51,
+      "intro": "大武汉景区旅游年卡",
+      "cover": "",
+      "url": "https://cdn.jsdelivr.net/gh/pepper-hua/jlv-data@main/dawuhan-wuhan.json",
+      "updatedAt": "2026-10-22"
     }
   ]
 }
